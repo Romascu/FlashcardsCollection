@@ -1,21 +1,7 @@
-A semi-official port of the open source [Anki](http://ankisrs.net/index.html) spaced repetition flashcard system to Android. Memorize anything with AnkiDroid!
+This app is a fork of the free software & open-source AnkiDroid, Copyright (c) 2012-present AnkiDroid Open Source Team, under the GNU GPL v3 license. This fork (as in custom version) is under the same license.For the moment this fork it has only minimal changes,mosty administrative changes needed to enable further customization.
 
-![Screenshot](https://raw.githubusercontent.com/ankidroid/ankidroiddocs/master/img/4-reviewer.png)
+Link to license:
+https://github.com/ankidroid/Anki-Android/blob/develop/COPYING
 
-Install
--------
-Install directly from [here on github](https://github.com/ankidroid/Anki-Android/releases/latest) or stay up-to-date
-automatically by installing via an app store:
-
-<a href="https://play.google.com/store/apps/details?id=com.ichi2.anki&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="50px"/></a>
-<a href="https://f-droid.org/repository/browse/?fdid=com.ichi2.anki"><img alt="F-Droid" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Get_it_on_F-Droid.svg" height="50px"/></a>
-
-Help
-----
-Check the [user manual](https://ankidroid.org/docs/manual.html) and the wiki for usage instructions. See the [help page](https://ankidroid.org/docs/help.html) 
-for how to submit a bug report or contact a project member, etc.
-
-Contribute
-----------
-You can contribute to AnkiDroid by beta testing, translating, or submitting code. 
-See the [contribution wiki page](https://github.com/ankidroid/Anki-Android/wiki/Contributing) for more info.
+Original repository source and more info:
+https://github.com/ankidroid/Anki-Android
